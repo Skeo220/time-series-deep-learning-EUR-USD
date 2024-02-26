@@ -1,2 +1,2 @@
 # time-series-deep-learning-EUR-USD
-Predicting forex exchange rates (EUR/USD) using deep learning
+Attempted to predict EUR/USD forex rates using deep learning.
